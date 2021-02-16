@@ -1,6 +1,6 @@
-#GitLearning
+# GitLearning
 
-##General
+## General
 
 This repository is used for Git practice. The repository contains examples for:
 
@@ -8,9 +8,9 @@ This repository is used for Git practice. The repository contains examples for:
 - Branching
 - Conflicts
 
-###Adresses
+### Adresses
 
-##Repository address
+## Repository address
 
 The repository is accessable with browser throught https://github.com/Ranumo/Git.git
 
